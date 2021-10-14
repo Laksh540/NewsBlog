@@ -1,5 +1,10 @@
 Libraries used.
+
+Boostrap
 https://getbootstrap.com/
+
+For icons
+https://fontawesome.com/
 
 For UI : Html, Css, Boostrap 4
 For development: Javascript

@@ -1,0 +1,6 @@
+Libraries used.
+https://getbootstrap.com/
+
+For UI : Html, Css, Boostrap 4
+For development: Javascript
+Used Vanilla javascript for load more content and view less content of grids.
